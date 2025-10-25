@@ -81,3 +81,4 @@ while True:
         for h in seen:
             f.write(h + "\n")
     time.sleep(CHECK_INTERVAL)
+
